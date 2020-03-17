@@ -1,0 +1,7 @@
+C:\Users\No name\Desktop\C#\LINQ - primer\bin\Debug\LINQ - primer.exe.config
+C:\Users\No name\Desktop\C#\LINQ - primer\bin\Debug\LINQ - primer.exe
+C:\Users\No name\Desktop\C#\LINQ - primer\bin\Debug\LINQ - primer.pdb
+C:\Users\No name\Desktop\C#\LINQ - primer\obj\Debug\LINQ - primer.csprojAssemblyReference.cache
+C:\Users\No name\Desktop\C#\LINQ - primer\obj\Debug\LINQ - primer.exe
+C:\Users\No name\Desktop\C#\LINQ - primer\obj\Debug\LINQ - primer.pdb
+C:\Users\No name\Desktop\C#\LINQ - primer\obj\Debug\LINQ - primer.csproj.CoreCompileInputs.cache
